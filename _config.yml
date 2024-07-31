@@ -20,17 +20,14 @@
 
 title: Marcus Messer
 email: marcus.messer@kcl.ac.uk
-description: ""
+description: "Computer Science Education Researcher"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://marcusm.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  m-messer
 
 # Build settings
-plugins:
-  - remote-theme
-  - jekyll-feed
+theme: minima
 
-remote_theme: pages-themes/minimal@v0.2.0
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
