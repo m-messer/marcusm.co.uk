@@ -30,7 +30,7 @@ theme: minima
 
 plugins: ['jekyll/scholar']
 scholar:
-  style: modern-language-association
+  style: apa
   source: _bibliography
 
 # Exclude from processing.
