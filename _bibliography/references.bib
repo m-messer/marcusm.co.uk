@@ -15,3 +15,91 @@ Publications
 	publisher = {Springer Nature Switzerland},
 	title = {Grading Documentation with Machine Learning},
 	year = {2024}}
+
+@article{10.1145/3636515,
+author = {Messer, Marcus and Brown, Neil C. C. and K\"{o}lling, Michael and Shi, Miaojing},
+title = {Automated Grading and Feedback Tools for Programming Education: A Systematic Review},
+year = {2024},
+issue_date = {March 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {24},
+number = {1},
+url = {https://doi.org/10.1145/3636515},
+doi = {10.1145/3636515},
+abstract = {We conducted a systematic literature review on automated grading and feedback tools for programming education. We analysed 121 research papers from 2017 to 2021 inclusive and categorised them based on skills assessed, approach, language paradigm, degree of automation, and evaluation techniques. Most papers assess the correctness of assignments in object-oriented languages. Typically, these tools use a dynamic technique, primarily unit testing, to provide grades and feedback to the students or static analysis techniques to compare a submission with a reference solution or with a set of correct student submissions. However, these techniques’ feedback is often limited to whether the unit tests have passed or failed, the expected and actual output, or how they differ from the reference solution. Furthermore, few tools assess the maintainability, readability, or documentation of the source code, with most using static analysis techniques, such as code quality metrics, in conjunction with grading correctness. Additionally, we found that most tools offered fully automated assessment to allow for near-instantaneous feedback and multiple resubmissions, which can increase student satisfaction and provide them with more opportunities to succeed. In terms of techniques used to evaluate the tools’ performance, most papers primarily use student surveys or compare the automatic assessment tools to grades or feedback provided by human graders. However, because the evaluation dataset is frequently unavailable, it is more difficult to reproduce results and compare tools to a collection of common assignments.},
+journal = {ACM Trans. Comput. Educ.},
+month = {feb},
+articleno = {10},
+numpages = {43},
+keywords = {Automated grading, feedback, assessment, computer science education, systematic literature review, automatic assessment tools}
+}
+@inproceedings{10.1145/3587102.3588822,
+author = {Messer, Marcus and Brown, Neil C. C. and K\"{o}lling, Michael and Shi, Miaojing},
+title = {Machine Learning-Based Automated Grading and Feedback Tools for Programming: A Meta-Analysis},
+year = {2023},
+isbn = {9798400701382},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3587102.3588822},
+doi = {10.1145/3587102.3588822},
+abstract = {Research into automated grading has increased as Computer Science courses grow. Dynamic and static approaches are typically used to implement these graders, the most common implementation being unit testing to grade correctness. This paper expands upon an ongoing systematic literature review to provide an in-depth analysis of how machine learning (ML) has been used to grade and give feedback on programming assignments. We conducted a backward snowball search using the ML papers from an ongoing systematic review and selected 27 papers that met our inclusion criteria. After selecting our papers, we analysed the skills graded, the preprocessing steps, the ML implementation, and the models' evaluations.We find that most the models are implemented using neural network-based approaches, with most implementing some form of recurrent neural network (RNN), including Long Short-Term Memory, and encoder/decoder with attention mechanisms. Some graders implement traditional ML approaches, typically focused on clustering. Most ML-based automated grading, not many use ML to evaluate maintainability, readability, and documentation, but focus on grading correctness, a problem that dynamic and static analysis techniques, such as unit testing, rule-based program repair, and comparison to models or approved solutions, have mostly resolved. However, some ML-based tools, including those for assessing graphical output, have evaluated the correctness of assignments that conventional implementations cannot.},
+booktitle = {Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1},
+pages = {491–497},
+numpages = {7},
+keywords = {automated grading, computer science education, machine learning, meta-analysis},
+location = {Turku, Finland},
+series = {ITiCSE 2023}
+}
+
+@inproceedings{10.1007/978-3-031-11647-6_6,
+	abstract = {Over the last few years, Computer Science class sizes have increased, resulting in a higher grading workload. Universities often use multiple graders to quickly deliver the grades and associated feedback to manage this workload. While using multiple graders enables the required turnaround times to be achieved, it can come at the cost of consistency and feedback quality. Partially automating the process of grading and feedback could help solve these issues. This project will look into methods to assist in grading and feedback partially subjective elements of programming assignments, such as readability, maintainability, and documentation, to increase the marker's amount of time to write meaningful feedback. We will investigate machine learning and natural language processing methods to improve grade uniformity and feedback quality in these areas. Furthermore, we will investigate how using these tools may allow instructors to include open-ended requirements that challenge students to use their ideas for possible features in their assignments.},
+	address = {Cham},
+	author = {Messer, Marcus},
+	booktitle = {Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners' and Doctoral Consortium},
+	editor = {Rodrigo, Maria Mercedes and Matsuda, Noburu and Cristea, Alexandra I. and Dimitrova, Vania},
+	isbn = {978-3-031-11647-6},
+	pages = {35--40},
+	publisher = {Springer International Publishing},
+	title = {Grading Programming Assignments with an Automated Grading and Feedback Assistant},
+	year = {2022}}
+@inproceedings{2022.EDM-doctoral-consortium.101,
+ abstract = {Over the last few years, computer science class sizes have increased, resulting in tutors providing more support to struggling students, and instructors having less time per-student in larger classes.
+
+Universities typically assign multiple tutors to lab sessions, especially introductory programming courses, to maximise the help available to students during their sessions.
+
+However, using multiple tutors does not help struggling students outside of official sessions.
+
+The lack of support outside official settings is especially the case for online courses and remote learning.
+
+To help resolve student frustration from not being able to get support when they need it, we propose a tool that can detect when a student is struggling with their programming task and give them a hint that gets them closer to their goal.},
+ address = {Durham, United Kingdom},
+ author = {Marcus Messer},
+ booktitle = {Proceedings of the 15th International Conference on Educational Data Mining},
+ doi = {10.5281/zenodo.6852958},
+ editor = {Antonija Mitrovic and Nigel Bosch},
+ isbn = {978-1-7336736-3-1},
+ month = {July},
+ pages = {778--781},
+ publisher = {International Educational Data Mining Society},
+ title = {Detecting When a Learner Requires Assistance with Programming and Delivering a Useful Hint},
+ year = {2022}
+}
+
+@inproceedings{10.1145/3502717.3532113,
+author = {Messer, Marcus},
+title = {Automated Grading and Feedback of Programming Assignments},
+year = {2022},
+isbn = {9781450392006},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3502717.3532113},
+doi = {10.1145/3502717.3532113},
+abstract = {Over the last few years, Computer Science class sizes have increased, resulting in a higher grading workload. To manage this workload, universities often use multiple graders to deliver the grades and associated feedback quickly. While using multiple graders enables the required turnaround times to be achieved, it does come at the cost of consistency and feedback quality. Automating the process of grading and feedback could help solve these issues. This project will look into methods to fully or partially automate grading and feedback, such as machine learning and natural language processing, to improve grade uniformity and feedback quality.},
+booktitle = {Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 2},
+pages = {638–639},
+numpages = {2},
+keywords = {feedback, automated grading, assessment},
+location = {Dublin, Ireland},
+series = {ITiCSE '22}
+}
