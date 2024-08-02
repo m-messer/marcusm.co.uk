@@ -13,4 +13,12 @@ Outside of his research, Marcus is a Graduate Teaching Assistant at King’s Col
 
 Prior to his PhD, Marcus worked as a full-stack software engineer within a data analytics company and was responsible for various projects, including data ingestion, and web-based data visualization.
 
-# Recent Work
+# Key Projects
+## Menagerie: A Dataset of Graded CS1 Assignments
+
+The Menagerie dataset consists of a second semester CS1 assignment that ran over four academic years (18/19 - 21/22). It consists of 667 total submissions, with 273 of those being subsequently graded post hoc as part of a study into the consistency of human graders, and includes final grades and feedback for correctness, code elegance, readability and documentation.
+
+[OpenScienceFoundation](https://osf.io/q8jbt/wiki/home/)
+
+# Publications
+{% bibliography %} 

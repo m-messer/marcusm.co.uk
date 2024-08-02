@@ -28,6 +28,11 @@ github_username:  m-messer
 # Build settings
 theme: minima
 
+plugins: ['jekyll/scholar']
+scholar:
+  style: modern-language-association
+  source: _bibliography
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
