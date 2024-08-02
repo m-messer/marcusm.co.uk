@@ -5,6 +5,8 @@
 layout: home
 title: About 
 ---
+<img src="headshot.png" alt="headshot" width="200" style="float: left;margin:10px; border-radius:80px" />
+
 Marcus Messer is a PhD student in the Department of Informatics. He obtained his MSci in Computer Science from Royal Holloway, University of London.
 
 Marcus’ research focuses on the application of machine learning, particularly natural language processing, to automate the grading and feedback of code quality within student assignments.
@@ -19,6 +21,11 @@ Prior to his PhD, Marcus worked as a full-stack software engineer within a data 
 The Menagerie dataset consists of a second semester CS1 assignment that ran over four academic years (18/19 - 21/22). It consists of 667 total submissions, with 273 of those being subsequently graded post hoc as part of a study into the consistency of human graders, and includes final grades and feedback for correctness, code elegance, readability and documentation.
 
 [OpenScienceFoundation](https://osf.io/q8jbt/wiki/home/)
+
+# Grants
+- College Teaching Fund - King's College London
+
+    £10,222.50
 
 # Publications
 {% bibliography %} 
