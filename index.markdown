@@ -7,8 +7,10 @@ title: About
 ---
 <img src="headshot.png" alt="headshot" width="200" style="float: left;margin:10px; border-radius:80px" />
 
-I am a Teaching Fellow and PhD student in the Department of Informatics. I obtained his MSci in Computer Science from Royal Holloway, University of London.
+I am a Teaching Fellow and PhD student in the Department of Informatics. I obtained my MSci in Computer Science from Royal Holloway, University of London.
 
+
+</br>
 My research focuses on the automated assessment of code quality, and includes:
 - Computer Science Education
 - Programming Education
