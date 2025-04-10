@@ -35,4 +35,4 @@ The Menagerie dataset consists of a second semester CS1 assignment that ran over
 - College Teaching Fund - King's College London - £10,222.50
 
 # Publications
-{% bibliography %} 
+{% bibliography --group_by type  %} 

@@ -32,6 +32,7 @@ plugins: ['jekyll/scholar']
 scholar:
   style: apa
   source: _bibliography
+  type_order: [article, inproceedings]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
