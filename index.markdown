@@ -6,9 +6,9 @@ layout: home
 ---
 <img src="headshot.png" alt="headshot" width="200" align="left" style="margin-right:10px; border-radius:80px" />
 
-I am a Teaching Fellow and PhD student in the Department of Informatics. I obtained my MSci in Computer Science from Royal Holloway, University of London.
+I am a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial, working on automated feedback with the [Lambda Feedback Team](https://www.lambdafeedback.com/). I completed my PhD at King's College London, where my research focused on Automated Assessment of Code Quality, Prior to that, I obtained my MSci in Computer Science from Royal Holloway, University of London.
 
-My research focuses on the automated assessment of code quality and programming assessment.
+My research focuses automated assessment and feedback, student engagement and curricula alignment with industry expections.
 
 Before my PhD, I worked as a full-stack software engineer within a data analytics company and was responsible for various projects, including data ingestion and web-based data visualization.
 
@@ -16,10 +16,10 @@ Before my PhD, I worked as a full-stack software engineer within a data analytic
 ---
 
 # Research Topics
-- Computer Science Education
-- Programming Education
+- Automated Feedback 
 - Automated Assessment
-- Natural Language Processing
+- STEM Education
+- Computer Science Education
 - Software Tools
 - Human-Computer Interaction
   
