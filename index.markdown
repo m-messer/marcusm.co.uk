@@ -6,9 +6,9 @@ layout: home
 ---
 <img src="headshot.png" alt="headshot" width="200" align="left" style="margin-right:10px; border-radius:80px" />
 
-I am a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial, working on automated feedback with the [Lambda Feedback Team](https://www.lambdafeedback.com/). I completed my PhD at King's College London, where my research focused on Automated Assessment of Code Quality, Prior to that, I obtained my MSci in Computer Science from Royal Holloway, University of London.
+I am a Postdoctoral Research Associate in the Department of Mechanical Engineering at Imperial, working on automated feedback with the [Lambda Feedback Team](https://www.lambdafeedback.com/). I completed my PhD at King's College London, where my research focused on Automated Assessment of Code Quality. Prior to that, I obtained my MSci in Computer Science from Royal Holloway, University of London.
 
-My research focuses automated assessment and feedback, student engagement and curricula alignment with industry expections.
+My research focuses on automated assessment and feedback, student engagement and curricula alignment with industry expectations.
 
 Before my PhD, I worked as a full-stack software engineer within a data analytics company and was responsible for various projects, including data ingestion and web-based data visualization.
 
@@ -31,8 +31,16 @@ The Menagerie dataset consists of a second semester CS1 assignment that ran over
 
 [OpenScienceFoundation](https://osf.io/q8jbt/wiki/home/)
 
+### Lambda Feedback: Automated Formative Feedback at Imperial
+
+Since 2025, I have been developing and researching automated formative feedback on the Lambda Feedback platform at Imperial College London, combining GenAI and traditional approaches to provide feedback to over 4,000 students annually. This includes leading a project on a shared API standard for educational microservices with colleagues at TU Munich, ETH Zürich, and Nanyang Technological University.
+
+[Lambda Feedback](https://www.lambdafeedback.com/)
+
 # Grants
-- College Teaching Fund - King's College London - £10,222.50
+- College Teaching Fund - King's College London - £9,222.50 (2023)
+- College Teaching Fund (Travel/Dissemination Grant) - King's College London - £1,000 (2024)
+- Imperial Global Connect Fund - Imperial - £5,950 (2025)
 
 # Publications
 {% bibliography --group_by type  %} 
