@@ -37,6 +37,12 @@ Since 2025, I have been developing and researching automated formative feedback 
 
 [Lambda Feedback](https://www.lambdafeedback.com/)
 
+### PEAF: Pedagogical Evaluation of Automated Feedback
+
+I co-founded and lead PEAF, the First International Workshop on Pedagogical Evaluation of Automated Feedback, held as part of AIED 2026's Festival of Learning. The workshop brings together researchers and practitioners to develop shared methods for evaluating whether automated feedback tools actually support student learning, rather than judging them on technical performance alone.
+
+[Website](https://peaf-workshop.github.io/2026/) · [Paper](https://link.springer.com/chapter/10.1007/978-3-032-29794-5_10)
+
 # Grants
 - College Teaching Fund - King's College London - £9,222.50 (2023)
 - College Teaching Fund (Travel/Dissemination Grant) - King's College London - £1,000 (2024)
